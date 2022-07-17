@@ -1,2 +1,3 @@
 # RREF
-wip
+`gcc main.c -o run`
+`./run input.txt`
