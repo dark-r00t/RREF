@@ -1,3 +1,3 @@
 # RREF
 `gcc main.c -o run`
-`./run input.txt`
+<br>`./run input.txt`
