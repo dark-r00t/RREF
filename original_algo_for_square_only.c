@@ -7,7 +7,8 @@ GENERATES:
 8  6  4  2
 4  3  2  1
 
-REMOVING THE LINE: "int p = SIZE*SIZE - i - 1;"
+CHANGING THE LINE: "int p = SIZE*SIZE - i - 1;"
+TO THE LINE: "int p = i;"
 GENERATES:
 1  2  3  4
 2  4  6  8
